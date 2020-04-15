@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\node_modules",
+    "\\node_modules\\jquery-validation",
+    "\\node_modules\\jquery-validation\\dist",
+    "\\Views",
+    "\\Views\\App"
+  ],
+  "SelectedNode": "\\node_modules\\jquery-validation\\dist\\jquery.validate.min.js",
+  "PreviewInSolutionExplorer": false
+}
