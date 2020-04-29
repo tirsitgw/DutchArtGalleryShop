@@ -1,4 +1,4 @@
-﻿namespace DutchTreat.Services
+﻿namespace DutchTreat.ConfigureServices
 {
   public interface IMailServices
   {

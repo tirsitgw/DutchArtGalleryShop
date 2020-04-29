@@ -5,5 +5,16 @@
   },
   "ConnectionStrings": {
     "DutchConnectionString": "server=(localdb)\\ProjectsV13;Database=DutchTreatDb;Integrated Security=true;MultipleActiveResultSets=true;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning"
+    }
+  },
+  "Tokens": {
+    "Key": "awi;eofjweofi;jweowj ;wsfsdk ca",
+    "Issuer": "localhost",
+    "Audience": "http://localhost:8980"
   }
 }
